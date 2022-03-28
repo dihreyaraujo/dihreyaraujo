@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Dihrey Araujo, sou um estudante de Desenvolvimento Web - Full Stack
 
 
-<div align="center">
+<div>
   <a href="https://github.com/dihreyaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dihreyaraujo&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihreyaraujo&layout=compact&langs_count=7&theme=discord_old_blurple"/>
@@ -9,9 +9,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Dihrey-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-
   <img align="center" alt="Dihrey-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
- 
   <img align="center" alt="Dihrey-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
 </div>
