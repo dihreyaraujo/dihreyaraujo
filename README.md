@@ -1,5 +1,5 @@
-## Bem-Vindo!
-### Meu nome é Dihrey Araujo, sou um estudante de Desenvolvimento Web - Full Stack
+## Olá! Meu nome é Dihrey Araujo, sou um estudante de Desenvolvimento Web - Full Stack
+
 
 <div align="center">
   <a href="https://github.com/dihreyaraujo">
@@ -8,11 +8,11 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dihrey-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Dihrey-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 
-  <img align="center" alt="Dihrey-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Dihrey-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
  
-  <img align="center" alt="Dihrey-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Dihrey-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
 </div>
   
