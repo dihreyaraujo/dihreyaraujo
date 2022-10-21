@@ -1,5 +1,5 @@
-## Hello! Be Welcome!
-### My name's Dihrey Araujo. I'm Full Stack Web Development Student
+## Olá! Seja Bem-Vindo!
+### Meu nome é Dihrey Araujo. Eu sou Desenvolvedor Full Stack Jr.
 
 
 <div align="left">
