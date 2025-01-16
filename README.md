@@ -1,5 +1,5 @@
 ## Olá! Seja Bem-Vindo!
-### Meu nome é Dihrey Araujo. Eu sou Desenvolvedor Full Stack Jr.
+### Meu nome é Dihrey Araujo. Eu sou Desenvolvedor Full Stack
 
 
 <div align="left">
