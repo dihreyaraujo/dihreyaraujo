@@ -4,7 +4,7 @@
 
 Sou Desenvolvedor FullStack na [Lawgic](https://lawgic.com.br/)<br>
 
-- ⚙️ Eu uso diariamente: `React`, `Node`, `PostgreSQL`, `.js && .ts`
+- ⚙️ Eu uso diariamente: `["React", "Redux", "Node", "Express", "Nest", "PostgreSQL", ".js", ".ts"]`
 - 🎮 Amo jogar **video game**
 - ⛩️ Anime é o que eu mais gosto de assistir
 
