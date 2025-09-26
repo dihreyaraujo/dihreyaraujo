@@ -2,7 +2,7 @@
 
 #### Desenvolvedor FullStack especializado em React e Node
 
-Sou Desenvolvedor FullStack na [Lawgic](https://lawgic.com.br/);<br>
+Sou Desenvolvedor FullStack na [Lawgic](https://lawgic.com.br/)<br>
 
 - ⚙️ Eu uso diariamente: `React`, `Node`, `PostgreSQL`, `.js && .ts`
 - 🎮 Amo jogar **video game**
