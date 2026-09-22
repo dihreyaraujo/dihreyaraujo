@@ -7,13 +7,6 @@ Sou Desenvolvedor FullStack na [Lawgic](https://lawgic.com.br/)<br>
 - ⚙️ Eu uso diariamente: `["React", "Redux", "Node", "Express", "Nest", "PostgreSQL", ".js", ".ts"]`
 - 🎮 Amo jogar **video game**
 - ⛩️ Anime é o que eu mais gosto de assistir
-
-
-<div align="left">
-  <a href="https://github.com/dihreyaraujo">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dihreyaraujo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihreyaraujo&layout=compact&langs_count=7&theme=react"/>
-</div>
   
   <div>
     <a href="https://dihreybusiness.netlify.app" target="_blank"><img width="48" height="48" src="https://img.icons8.com/clouds/100/domain.png" alt="domain"/></a>
